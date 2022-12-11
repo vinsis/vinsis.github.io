@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Notes with code"
-    url: /notes_with_code/
+    url: /notes-with-code/
 
-  - title: "Articles"
-    url: /articles/    
+  # - title: "Education"
+    # url: /education/    
 
-  - title: "Coming soon"
-    url: /coming_soon/    
+  # - title: "Coming soon"
+    # url: /coming-soon/    
 
   # - title: "Teaching"
     # url: /teaching/    
@@ -18,8 +18,8 @@ main:
   # - title: "Blog Posts"
     # url: /year-archive/
     
-  # - title: "CV"
-    # url: /cv/
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
     # url: /markdown/
