@@ -36,3 +36,9 @@ Notes on Visual Transformers
 - [DEIT: Data Efficient Image Transformers](https://hackmd.io/@vinsis/S1G5o5edj)
 - [DiNo: self-`DI`stillation with `NO` labels](https://hackmd.io/@vinsis/S1k3s5guo)
 - [BeIT: Bert Encoding representations for Image Transformers](https://hackmd.io/@vinsis/SkJ0j9xdj)
+
+Notes along the theme of `transformers are NOT all what you need?`
+------
+- [MLP-Mixer](https://hackmd.io/@vinsis/ryi13clOo)
+- [Patches are all you need?](https://hackmd.io/@vinsis/BJvbhcldo)
+- [Metaformer is actually what you need for vision](https://hackmd.io/@vinsis/rJivp9gdi)
