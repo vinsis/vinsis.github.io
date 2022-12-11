@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there :wave:, I am Vinay Sisodia - currently working as a Machine Learning Tech Lead at PicCollage. I have deep interest in areas of math & machine learning. Other topics that interest me are education, natural languages and visualization. 
+Hello there, I am Vinay Sisodia - currently working as a Machine Learning Tech Lead at PicCollage. I have deep interest in areas of math & machine learning. Other topics that interest me are education, natural languages and visualization. 
 
 Things I have built
 ======

@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Notes with code"
+permalink: /notes-with-code/
+author_profile: true
+---
+
 Notes on [Probabilistic Models of Cognition](https://probmods.org/)
 ------
 - [Chapter 3: Conditioning](https://hackmd.io/@vinsis/r1efr9xdj)

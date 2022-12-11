@@ -14,24 +14,13 @@ Education
 * Bachelors & Masters: Indian Institute of Technology, Kharagpur
 * Courses in Mandarin: National Taiwan Normal University, National Taiwan University
   * Recipient of Huayu Enrichment Scholarship
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Julia
+* Machine Learning
+  * Statistical models, pre-deep-learning era tools, information theory
+  * Deep Learning: hands-on with transformers, GNNs, multimodality among other areas
+  * If all else fails, `SVD is all you need`
+* Problem solving with math, programming and a wee bit of engineering
+* A growing awareness of important problems to solve/critical questions to ask for which I don't have good solutions/answers
