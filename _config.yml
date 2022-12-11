@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio - Vinay Sisodia"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vinay Sisodia"
 description              : &description ""
