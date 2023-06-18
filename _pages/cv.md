@@ -17,7 +17,8 @@ Education
   
 Skills
 ======
-* Programming: Python, Julia
+* Setting a ML team from the ground up
+* Programming: Python, Julia, React
 * Machine Learning
   * Statistical models, pre-deep-learning era tools, information theory
   * Deep Learning: hands-on with transformers, GNNs, multimodality among other areas
