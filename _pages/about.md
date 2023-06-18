@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I am Vinay Sisodia - currently working as a Machine Learning Tech Lead at PicCollage. I have experience in setting up a ML team + infrastructure in small startups. I have deep interest in areas of math & machine learning. 
+Hello there, I am Vinay Sisodia. I have deep interest in areas of math & machine learning. I am currently working as a Machine Learning Tech Lead at [PicCollage](https://picc.co/).
+
+Things I am good at
+======
+- Setting up a ML team + infrastructure in small startups from the ground up
+- ML Research, esp vision and language models
+- Building new products
 
 
 
