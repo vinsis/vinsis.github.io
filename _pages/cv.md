@@ -14,6 +14,7 @@ Education
 * Bachelors & Masters: Indian Institute of Technology, Kharagpur
 * Courses in Mandarin: National Taiwan Normal University, National Taiwan University
   * Recipient of Huayu Enrichment Scholarship
+* Languages: Fluent in Hindi, English and Mandarin (traditional characters)
   
 Notable Projects
 =====
