@@ -11,13 +11,14 @@ redirect_from:
 Hello there, I am Vinay Sisodia. I have deep interest in areas of math & machine learning. I am currently working as a Machine Learning Tech Lead at [PicCollage](https://picc.co/).
 I got into machine learning when companies were starting to build dedicated AI/ML teams. I had the privilege of being the first ML engineer in two different organizations, which allowed me to build ML systems from the ground up. Later on I took on the responsibility of growing and leading ML teams. The past few years have been quite gratifying intellectually, and I am very proud of some of the things I built during this time. 
 
-Things I am good at
+What I do
 ======
 - Bringing AI to a tech startup: building ML technologies, systems and infrastructure from the ground up
 - Building and growing a machine learning team
 - ML Research, esp vision and language models: I am particularly interested in multi-modality, self-supervised learning and graphs
 - Building new products
 
+You can learn more about my technical projects [here](https://vinsis.github.io/cv/).
 
 Things I have built
 ======
