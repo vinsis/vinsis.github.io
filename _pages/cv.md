@@ -42,10 +42,10 @@ Skills
   * Statistical models, pre-deep-learning era tools, information theory
   * Deep Learning: hands-on with transformers, GNNs, self-supervised learning among other areas
   * Generative AI: the good old VAE, normalizing flows, diffusion models and LLMs
-  * Multi-modality: I using canonical correlation analysis in the pre-CLIP era to project two vectors spaces into a shared space. Intimately familiar with CLIP models and its derivatives. Recently I have gotten interested in grounding models (GLIP, GroundingDINO) and Segment Anything Model.
-  * If all else fails, `SVD is all you need`
+  * Multi-modality: I was using [canonical correlation analysis](https://en.wikipedia.org/wiki/Canonical_correlation) in the pre-CLIP era to compare image and text embeddings. Things changed after CLIP and cross-attention modules. Intimately familiar with CLIP models and its derivatives. 
+  * If all else fails, `SVD is all you need`.
 * Math
-  * Strong knowledge of Linear Algebra, Probability, Calculus, Spectral Graph Theory, Fourier Transforms, ODEs
-  * Decent knowledge of Information Theory, Generative Functions, Abstract Algebra, Complex Analysis
+  * Created [Linear Algebra for Programmers](https://www.linearalgebraforprogrammers.com/)
+  * (Old work, discontinued) [Visual essays on math-related topics](https://tinyvolt.com/)
 * Problem solving with math, programming and a wee bit of engineering
 * A growing awareness of important problems to solve/critical questions to ask for which I don't have good solutions/answers
