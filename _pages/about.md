@@ -21,7 +21,7 @@ You can learn more about my technical projects [here](https://vinsis.github.io/c
 
 Things I have built
 ======
-- [Linear Algebra for Programmers](https://www.linearalgebraforprogrammers.com/): A e-book of visual essays to learn linear algebra from scratch.
+- [Linear Algebra for Programmers](https://www.linearalgebraforprogrammers.com/): An e-book of visual essays to learn linear algebra from scratch.
 - [TinyVolt](https://tinyvolt.com/): A collection of interactive visual essays related to topics in math. Vastly inspired from [The Pudding](https://pudding.cool/) and, to a certain extent, [Instill](https://distill.pub/).
 - [Normalizing flows - theory and implementation](https://www.youtube.com/playlist?list=PL4RJUVHtEJXI_lpshcnnQMhHtMjrkwRyr): A YouTube playlist introducting the ideas behind normalizing flows and how to implement them in Python.
 - [Distillation of CLIP model (Medium article)](https://medium.com/piccollage-astronauts/distillation-of-clip-model-and-other-experiments-f8394b7321ce): Work done at PicCollage. The article covers only the initial attempt at distillation of the CLIP model. The work was then extended to extraction of attention values for image patches and re-training the distilled model with the attention values.
@@ -33,6 +33,8 @@ I got into machine learning when companies were starting to build dedicated AI/M
 
 I love taking notes
 ======
+I have been trying to organize them and put more of my notes in public domain (using `HackMD`). Check out the list of all the notes available there under the [Notes with code](https://vinsis.github.io/notes-with-code/) section.
+
 A small fraction of my notes can be found in these Github repos - [Understanding neural networks with PyTorch](https://github.com/vinsis/understanding-neuralnetworks-pytorch) and [Math and ML notes](https://github.com/vinsis/math-and-ml-notes/). 
 
-I have been trying to organize them and put more of my notes in public domain (using `HackMD`). Check out the list of all the notes available there under the [Notes with code](https://vinsis.github.io/notes-with-code/) section.
+
