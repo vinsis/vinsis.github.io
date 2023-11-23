@@ -18,20 +18,21 @@ Education
   
 Notable Projects
 =====
-* [GLIACloud] Highlight detection in soccer videos
+* [GLIACloud, 2018] Highlight detection in soccer videos
   * Built a simple CNN + RNN model which was trained on labeled soccer videos from Chinese Super League
-* [PicCollage] Distillation of CLIP model
+* [PicCollage, 2021] Distillation of CLIP model
   * Distilled the ViT component of the CLIP model (24MB only), which was then deployed on edge and is currently in use by multiple apps
   * Some details are available [here](https://tech.pic-collage.com/distillation-of-clip-model-and-other-experiments-f8394b7321ce), but we did more work later which is not covered by the article
   * Extracted attention values from the transformer layer to act as a proxy for saliency patches
-* [PicCollage] Training a GNN for photo to sticker recommendation
+* [PicCollage, 2022] Training a GNN for photo to sticker recommendation
   * Implemented a variant of [CompGCN](https://github.com/malllabiisc/CompGCN)
   * The most important change was that our model was inductive while the original implementation was transductive. This was done by a) fixing the initial node embedding to be a CLIP embedding and b) learning a transformation to map the initial node embedding instead of changing the node values directly
-* [PicCollage] Transition detection in videos
+* [PicCollage, 2021] Transition detection in videos
   * This was done by looking at the spectral properties of the cosine similarity matrix of the video frames (Spectral Graph Theory to the rescue!)
-* [PicCollage] Image quality assessment using multi-modal projection matrices
+* [PicCollage, 2023] Image quality assessment using multi-modal projection matrices
   * Turned out to be more effective than a model trained on NIMA
-* [PicCollage] Bringing Generative AI related technologies to build products/features on
+  * [Blog article explaining the key idea](https://www.linearalgebraforprogrammers.com/blog/image_assessment_clip)
+* [PicCollage, 2022] Bringing Generative AI related technologies to build products/features on
   * Set up training pipelines for dreambooth, LoRA and ControlNet
 
 Skills
